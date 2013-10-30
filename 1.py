@@ -12,5 +12,5 @@ else:
 	if kus == "vaimelas":
 		print "jah"
 	else:
-		print "t6mba nahui!"
+		print "Mine 2ra! "
 
