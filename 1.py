@@ -1,1 +1,1 @@
-print "tere"
+print "Vinge"
