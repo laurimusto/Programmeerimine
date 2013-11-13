@@ -7,7 +7,7 @@ print ruumala
 
 
 
-nummi = raw_input("Kirjutage number palun ")
+nummi = raw_input("Sisesta number: ")
 numps = float(num)
 print "Tangens: ",math.tan(numps * math.pi/180)
 print "Cos siinus: ",math.cos(numps * math.pi/180)
