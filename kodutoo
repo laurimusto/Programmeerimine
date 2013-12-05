@@ -1,0 +1,6 @@
+import random
+ggawphabe = 0
+
+while (ggawphabe < 10):
+  print '#' * random.randint(0, 30);
+  ggawphabe += 1
